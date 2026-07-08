@@ -2,6 +2,8 @@
 
 A responsive and stylish **Pink Calculator** built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations while featuring a clean pastel pink user interface and smooth user experience.
 
+🚀 **Live Demo:** https://amritasoni-dev.github.io/Calculator/
+
 ## ✨ Features
 
 - ➕ Addition
